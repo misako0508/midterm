@@ -1,14 +1,24 @@
-function plus(){
+function plus(a, b){
+    let c = a + b;
+    return c;
 }
 
-function minus(){
+function minus(a, b){
+    let d = a - b;
+    return d;
 }
 
-function times(){
+function times(a,b){
+    let e = a * b;
+    return e;
 }
 
-function div(){
+function div(a,b){
+    let f = a / b;
+    return f;
 }
 
-function mod(){  
+function mod(a,b){
+    let g = a % b;
+    return g;  
 }
