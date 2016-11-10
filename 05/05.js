@@ -1,5 +1,5 @@
 function strlen(text){
-    let a = strlen("text").length;
+    let a = strlen.length;
     return a;
 }
 
